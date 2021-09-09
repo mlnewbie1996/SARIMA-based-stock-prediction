@@ -36,5 +36,7 @@ Whoa whoa whoa !!!!!!!!! Now wait a minute those seems like a lot of heavy words
 * Therefore, we reject the null hypothesis, and accept the alternative hypothesis.
 *  However, if the p-value is below your threshold of significance (typically p < 0.05), you can reject the null hypothesis, but this does not mean that there is a 95% probability that the alternative hypothesis is true. 
 *  The p-value is conditional upon the null hypothesis being true, but is unrelated to the truth or falsity of the alternative hypothesis.
-![Image36341_fmt](https://user-images.githubusercontent.com/32235814/132618191-a6205fda-8725-4658-bcce-ff26432ba6b2.png)
+
+
+      ![Image36341_fmt](https://user-images.githubusercontent.com/32235814/132618191-a6205fda-8725-4658-bcce-ff26432ba6b2.png)
 
